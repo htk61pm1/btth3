@@ -4,5 +4,5 @@ define('DOMAIN', 'http://localhost/quanlythuvien/');
 
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASS', '194');
+define('DB_PASS', '');
 define('DB_NAME', 'quanlythuvien');
